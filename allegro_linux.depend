@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745503225 source:/home/leonardo/Documentos/uff/prog2/allegro/allegro/projeto/allegro08.c
+	<allegro5/allegro5.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
